@@ -16,7 +16,7 @@ Code:https://www.kaggle.com/duangpromkrit/optimizer1-clip-logistic-regression-1s
 
 code:https://colab.research.google.com/drive/1kMq-mX2Z_6b_4xPszCLfHmo-yGxWMz5z?usp=sharing
 
-# Project: Implemnetation of Object detection using Yolov4(Darknet)
+# Project: Implementation of Object detection using Yolov4(Darknet)
 
 ![](https://github.com/kritduangprom/Krit_Portfolio/blob/main/Images/Yolo.png)
 
