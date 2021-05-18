@@ -26,8 +26,6 @@ code:https://colab.research.google.com/drive/1L2aZVvgPzrt8Bh_YLbUHbVg8WtRWyG6L?u
 
 Detect fraud by using random forests technique
 
-image
-
 Code:https://colab.research.google.com/drive/1TA21Ti_ojbF1jEVc70j3l-xXV99ZKVN6?usp=sharing
 
 
