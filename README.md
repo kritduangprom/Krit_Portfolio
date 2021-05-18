@@ -6,19 +6,19 @@
 
 Search&Classify image by extract feature by CLIP:Connecting Text and Images and classify by logistic regression
 
-image
+![](https://github.com/kritduangprom/Krit_Portfolio/blob/main/Images/CLIP.png)
 
 Code:https://www.kaggle.com/duangpromkrit/optimizer1-clip-logistic-regression-1st-private
 
 # Project:Lung segmentation by using U-Net
 
-image
+![](https://github.com/kritduangprom/Krit_Portfolio/blob/main/Images/Unet.png)
 
 code:https://colab.research.google.com/drive/1kMq-mX2Z_6b_4xPszCLfHmo-yGxWMz5z?usp=sharing
 
 # Project: Implemnetation of Object detection using Yolov4(Darknet)
 
-image
+![](https://github.com/kritduangprom/Krit_Portfolio/blob/main/Images/Yolo.png)
 
 code:https://colab.research.google.com/drive/1L2aZVvgPzrt8Bh_YLbUHbVg8WtRWyG6L?usp=sharing
 
