@@ -28,5 +28,8 @@ Detect fraud by using random forests technique
 
 Code:https://colab.research.google.com/drive/1TA21Ti_ojbF1jEVc70j3l-xXV99ZKVN6?usp=sharing
 
+# Project: Automated Guided Vehicle (AVG) for Industry (2016) at KMITL
 
+![](https://github.com/kritduangprom/Krit_Portfolio/blob/main/Images/AVG.png)
 
+Demo:https://www.youtube.com/watch?v=kWC0sxHXHJI
